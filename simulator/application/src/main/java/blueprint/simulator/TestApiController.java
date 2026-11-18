@@ -10,7 +10,7 @@ import blueprint.simulator.testapi.server.StatusApi;
  *
  * <p>
  * The paths and the parameters come from {@link StatusApi}, the interface generated from
- * {@code simulator-test-api/simulator-test-api.yaml}. This class only implements it.
+ * {@code simulator/api/simulator-test-api.yaml}. This class only implements it.
  * </p>
  */
 @RestController
